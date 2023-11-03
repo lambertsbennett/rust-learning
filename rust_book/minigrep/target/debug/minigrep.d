@@ -1,0 +1,1 @@
+C:\Users\lambertb\Documents\rust_learning\rust_book\minigrep\target\debug\minigrep.exe: C:\Users\lambertb\Documents\rust_learning\rust_book\minigrep\src\lib.rs C:\Users\lambertb\Documents\rust_learning\rust_book\minigrep\src\main.rs
